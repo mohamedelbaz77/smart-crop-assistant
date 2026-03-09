@@ -188,3 +188,36 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 
 **Python version:** 3.12  
 **Key packages:** scikit-learn, pandas, matplotlib, seaborn
+### AI-04 — Crop Recommendation API Endpoint ✅
+Date: March 9, 2026  
+Done by: Mohamed Adel (mo7elbaz0-del)
+
+- Implemented FastAPI endpoint `/recommend`
+- Loads trained RandomForest model
+- Accepts soil parameters
+- Returns recommended crop
+
+### AI-05 — PlantVillage Dataset Exploration ✅
+Date: March 9, 2026  
+Done by: Mohamed Adel (mo7elbaz0-del)
+
+- Downloaded PlantVillage dataset
+- Explored disease classes
+- Prepared dataset for CNN training
+
+### AI-06 — Image Preprocessing Pipeline ✅
+Date: March 9, 2026  
+Done by: Mohamed Adel (mo7elbaz0-del)
+
+- Implemented image preprocessing
+- Rescaled images
+- Applied augmentation
+
+### AI-07 — MobileNetV2 Disease Detection Model Setup ✅
+Date: March 9, 2026  
+Done by: Mohamed Adel (mo7elbaz0-del)
+
+- Implemented MobileNetV2 architecture
+- Added classification layer
+- Compiled model with Adam optimizer
+- 
